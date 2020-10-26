@@ -36,8 +36,7 @@ npm install --save mysql2
 Sample scheenshot:
 <img src="./images/screenshot.PNG" >
 
-Video demonstrating the application:https://drive.google.com/file/d/1OPeqxdSAq__dIx282zTRR_i0ZA3l7r_N/view
-
+Video demonstrating the application:https://drive.google.com/file/d/1Zn08lHhGWgnvADjbGvwVaQCEp8_t3jOK/view
 
 ## License
 E-commerce backend is licensed under the MIT License.
